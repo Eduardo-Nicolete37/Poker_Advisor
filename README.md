@@ -86,7 +86,7 @@ O programa recebe as suas cartas na mão e a fase atual da rodada, analisa a for
 
 ## Como executar
 
-**Pré-requisitos:** Python 3.x instalado.
+**Pré-requisitos:** Python 3.14 instalado.
 
 ```bash
 # Clone o repositório
